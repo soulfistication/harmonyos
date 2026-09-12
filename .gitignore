@@ -1,0 +1,16 @@
+# App icon generator
+/scripts/.icon-work/
+
+# HarmonyOS / DevEco Studio
+harmonyos/.hvigor/
+harmonyos/.idea/
+harmonyos/oh_modules/
+harmonyos/**/oh_modules/
+harmonyos/**/build/
+harmonyos/local.properties
+harmonyos/.clangd
+harmonyos/.clang-format
+harmonyos/.clang-tidy
+harmonyos/**/.test/
+harmonyos/.appanalyzer/
+
