@@ -1,0 +1,11 @@
+{
+  "files": [
+    "**/*.ets"
+  ],
+  "ignore": [
+    "**/oh_modules/**",
+    "**/node_modules/**",
+    "**/.preview/**"
+  ],
+  "rules": {}
+}
