@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#131F24"
+    },
+    {
+      "name": "background",
+      "value": "#131F24"
+    },
+    {
+      "name": "surface",
+      "value": "#202F36"
+    },
+    {
+      "name": "text",
+      "value": "#F1F7FB"
+    },
+    {
+      "name": "muted",
+      "value": "#AFAFAF"
+    },
+    {
+      "name": "divider",
+      "value": "#37464F"
+    },
+    {
+      "name": "card",
+      "value": "#202F36"
+    }
+  ]
+}
