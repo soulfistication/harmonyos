@@ -1,0 +1,6 @@
+# Keep public API names for debugging.
+-keep
+-enable-property-obfuscation
+-enable-toplevel-obfuscation
+-enable-filename-obfuscation
+-enable-export-obfuscation
